@@ -1,4 +1,3 @@
-layout_spectrum: 0.30874529015272856
 typography_spectrum: 0.6320595783181489
 color:
   brandStrength: 0.9385160133242607
@@ -11,4 +10,13 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-name: thehouseofmuse
+opengraph:
+  appId: 'https://www.facebook.com/ithehouseofmuse/'
+  type: Jewellery
+layout_spectrum: 0.30874529015272856
+author:
+  name: Raunaq Khanna
+  email: raunaqkhanna@hotmail.com
+  url: 'https://www.instagram.com/khannaraunaq/'
+name: The House of Muse
+title: Your New Age Accessory Store
