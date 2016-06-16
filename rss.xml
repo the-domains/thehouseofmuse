@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Your New Age Accessory Store]]></title>
         <description><![CDATA[Your New Age Accessory Store]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thehouseofmuse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 19:05:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 19:05:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thehouseofmuse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc42084-8d4f-4c53-b193-1a93e8462f7d.jpg">]]></description>
-            <link>undefinedfc1dafe6-25b6-44dd-bf52-0aab6e50e9ea/index.html</link>
+            <link>https://thegrid.ai/thehouseofmuse/fc1dafe6-25b6-44dd-bf52-0aab6e50e9ea/index.html</link>
             <guid isPermaLink="false">fc1dafe6-25b6-44dd-bf52-0aab6e50e9ea</guid>
             <pubDate>Thu, 16 Jun 2016 19:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muse @ Talasha]]></title>
+            <description><![CDATA[<article><h1>Muse @ Talasha</h1><p>@niharikakonidela</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e6a6ffab5fa956d917e85c685c98129/croprotate.jpg?cropheight=1232&cropwidth=471&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F012badab-964c-4d38-9446-f6b147998133.jpg&x=0&y=0"></article>]]></description>
+            <link>https://www.instagram.com/p/BGje44dmDAK/?taken-by=talashahyderabad</link>
+            <guid isPermaLink="false">68e93b6b-2302-4abe-b269-f8787ac54fb5</guid>
+            <pubDate>Thu, 16 Jun 2016 19:05:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
