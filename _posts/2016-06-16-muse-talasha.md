@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-16T19:05:32.466Z'
+datePublished: '2016-06-17T02:40:04.955Z'
 sourcePath: _posts/2016-06-16-muse-talasha.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGje44dmDAK/?taken-by=talashahyderabad'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T19:01:08.034Z'
+dateModified: '2016-06-16T19:12:35.806Z'
 title: Muse @ Talasha
 app_links:
   - url: 'instagram://media?id=1270995370160697354'
