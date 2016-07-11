@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-17T02:40:04.955Z'
+datePublished: '2016-07-11T19:23:01.985Z'
 sourcePath: _posts/2016-06-16-muse-talasha.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGje44dmDAK/?taken-by=talashahyderabad'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T19:12:35.806Z'
+dateModified: '2016-07-11T19:18:08.974Z'
 title: Muse @ Talasha
 app_links:
   - url: 'instagram://media?id=1270995370160697354'
@@ -28,7 +28,7 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: '@niharikakonidela'
+description: Ear rings by @the.houseofmuse
 starred: false
 inFeed: true
 hasPage: false
@@ -39,16 +39,6 @@ _type: Photograph
 ---
 # Muse @ Talasha
 
-[@niharikakonidela][0]
+Ear rings by [@the.houseofmuse][0]
 
-Wearing a gorgeous red outfit from [@eshaamiin1][1]
-
-Ring by [@sachdeva.ritika][2]
-
-Ear rings by [@musebyshivanshi][3]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e6a6ffab5fa956d917e85c685c98129/croprotate.jpg?cropheight=1232&cropwidth=471&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F012badab-964c-4d38-9446-f6b147998133.jpg&x=0&y=0)
-
-[0]: https://www.instagram.com/niharikakonidela/
-[1]: https://www.instagram.com/eshaamiin1/
-[2]: https://www.instagram.com/sachdeva.ritika/
-[3]: https://www.instagram.com/musebyshivanshi/ "The Muse"
+[0]: @the.houseofmuse "Insta"
