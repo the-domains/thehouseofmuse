@@ -22,10 +22,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b752a9-3471-434b-a72e-6f812ed85fb4.jpg
 name: The House of Muse
 navigation:
-  - id: 0dd2d63b-b5c1-48e0-a060-ecbc37605841
-    url: 2016-07-18-tribal-jewellery.html
-    name: Tribal Jewellery
-    type: content
   - id: 6470d155-5d4e-408b-8802-9125570d2cc5
     url: >-
       2016-07-18-our-ethnic-jewellery-catches-the-ethnic-spirit-and-becomes-t.html
@@ -34,9 +30,5 @@ navigation:
   - id: cd6b234d-8d45-47d8-b2e4-fa62d0473deb
     url: 2016-07-18-contact.html
     name: Contact Us
-    type: content
-  - id: 0dd2d63b-b5c1-48e0-a060-ecbc37605841
-    url: 2016-07-18-tribal-jewellery.html
-    name: Tribal Jewellery
     type: content
 title: Your New Age Accessory Store
