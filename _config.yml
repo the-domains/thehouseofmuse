@@ -1,19 +1,19 @@
-typography_spectrum: 0.8857579817995429
+typography_spectrum: 0.6320595783181489
 color:
-  brandStrength: 0.34466321975924075
-  lightness: 0.2880280022509396
-  saturation: 0.18382164184004068
-  rhythmicContrast: 0.12618335196748376
+  brandStrength: 0.9385160133242607
+  lightness: 0.45654056570492685
+  saturation: 0.452808101195842
+  rhythmicContrast: 0.1919239938724786
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 opengraph:
   appId: 'https://www.facebook.com/thehouseofmuseoffl/'
   type: Jewellery
-layout_spectrum: 0.5012776718940586
+layout_spectrum: 0.30874529015272856
 author:
   name: ''
   email: raunaqkhanna@hotmail.com
