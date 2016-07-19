@@ -3,8 +3,8 @@ description: >-
   Our ethnic jewellery catches the ethnic spirit and becomes the unique
   adornment for women. It makes a woman look beautiful outside and confident
   inside
-dateModified: '2016-07-18T17:10:07.668Z'
-datePublished: '2016-07-18T17:10:08.843Z'
+dateModified: '2016-07-18T17:57:05.990Z'
+datePublished: '2016-07-18T17:57:06.109Z'
 title: ''
 author: []
 sourcePath: >-
