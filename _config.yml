@@ -1,25 +1,17 @@
-typography_spectrum: 0.6320595783181489
 color:
-  brandStrength: 0.9385160133242607
-  lightness: 0.45654056570492685
-  saturation: 0.452808101195842
-  rhythmicContrast: 0.1919239938724786
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#DFE1DC'
+    - '#D0D3CC'
+    - '#000100'
+    - '#BFC0BA'
+    - '#ADAEA6'
+  brandStrength: 0.938516
+  lightness: 0.45654
+  rhythmicContrast: 0.191923
+  saturation: 0.452808
+layout_spectrum: 0.30874529015272856
+name: The House of Muse
 opengraph:
   appId: 'https://www.facebook.com/thehouseofmuseoffl/'
   type: Jewellery
-layout_spectrum: 0.30874529015272856
-author:
-  name: ''
-  email: raunaqkhanna@hotmail.com
-  url: 'https://www.instagram.com/khannaraunaq/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b752a9-3471-434b-a72e-6f812ed85fb4.jpg
-name: The House of Muse
-navigation: []
-title: ''
+typography_spectrum: 0.17652
