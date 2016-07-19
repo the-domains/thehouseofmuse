@@ -24,14 +24,14 @@ navigation:
     url: 2016-07-18-tribal-jewellery.html
     name: Tribal Jewellery
     type: content
-  - id: 0dd2d63b-b5c1-48e0-a060-ecbc37605841
-    url: 2016-07-18-tribal-jewellery.html
-    name: Tribal Jewellery
-    type: content
   - id: 6470d155-5d4e-408b-8802-9125570d2cc5
     url: >-
       2016-07-18-our-ethnic-jewellery-catches-the-ethnic-spirit-and-becomes-t.html
     name: Ethnic Collection
+    type: content
+  - id: 0dd2d63b-b5c1-48e0-a060-ecbc37605841
+    url: 2016-07-18-tribal-jewellery.html
+    name: Tribal Jewellery
     type: content
   - id: cd6b234d-8d45-47d8-b2e4-fa62d0473deb
     url: 2016-07-18-contact.html
