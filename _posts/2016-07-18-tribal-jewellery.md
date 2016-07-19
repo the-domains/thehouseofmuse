@@ -2,8 +2,8 @@
 description: >-
   Our tribal collection is inspired from the tribes across the world with
   detailing and minute intricacies of the artisans.
-dateModified: '2016-07-18T16:59:06.823Z'
-datePublished: '2016-07-18T16:59:07.812Z'
+dateModified: '2016-07-18T17:04:20.879Z'
+datePublished: '2016-07-18T17:04:21.781Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-tribal-jewellery.md
