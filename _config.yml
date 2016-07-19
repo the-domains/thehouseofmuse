@@ -11,13 +11,15 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 opengraph:
-  appId: 'https://www.facebook.com/ithehouseofmuse/'
+  appId: 'https://www.facebook.com/thehouseofmuseoffl/'
   type: Jewellery
 layout_spectrum: 0.30874529015272856
 author:
   name: Raunaq Khanna
   email: raunaqkhanna@hotmail.com
   url: 'https://www.instagram.com/khannaraunaq/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b752a9-3471-434b-a72e-6f812ed85fb4.jpg
 name: The House of Muse
 navigation:
   - id: 0dd2d63b-b5c1-48e0-a060-ecbc37605841
